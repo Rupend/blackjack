@@ -1,7 +1,3 @@
-.table {
-    
-}
-
 .player_cards {
     display: grid;
     grid-template-columns: 80px 80px auto;
