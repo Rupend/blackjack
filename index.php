@@ -2,7 +2,6 @@
 session_start();
 // session_destroy();
 // exit;
-include ("functions.inc");
 $cards_array = json_decode(file_get_contents("cards.json"),true);
 
 
